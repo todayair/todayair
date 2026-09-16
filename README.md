@@ -21,7 +21,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=todayair&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="顶部横幅" />
 
-<p><em>于月夜下振翅绽放，临梅雨间成群飞舞。</em></p>
+<p><em>随着浪花起伏消没 叼啄着往昔飞离不见</em></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFtodayair;%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0Agent%E5%BC%80%E5%8F%91%E7%9A%84%E5%AD%A6%E7%94%9F" alt="打字标语" />
 
