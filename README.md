@@ -23,7 +23,7 @@
 
 <p><em>于月夜下振翅绽放，临梅雨间成群飞舞。</em></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=%e4%bd%a0%e5%a5%bd%ef%bc%8c%e6%88%91%e6%98%af%20todayair;%e6%ad%a3%e5%9c%a8%e5%ad%a6%e8%ae%a1%e7%ae%97%e6%99%ba%e8%83%bd%e4%b8%8e%e4%bc%98%e5%8c%96%e7%ae%97%e6%b3%95;%e5%86%99%e4%bb%a3%e7%a0%81%ef%bc%8c%e4%b9%9f%e5%86%99%e7%94%9f%e6%b4%bb" alt="打字标语" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFtodayair;%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0Agent%E5%BC%80%E5%8F%91%E7%9A%84%E5%AD%A6%E7%94%9F" alt="打字标语" />
 
 <p>
   <a href="mailto:1649647826@qq.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
