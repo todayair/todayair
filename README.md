@@ -10,7 +10,6 @@
 
   <h3>一个正在学习 Agent 开发的学生</h3>
   <p><sub>Learning · Building · Exploring</sub></p>
-  <p><em>随着浪花起伏消没 叼啄着往昔飞离不见</em></p>
 
   <p>
     <a href="https://github.com/todayair?tab=repositories"><img src="https://img.shields.io/badge/Projects-0F766E?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看全部项目" /></a>
@@ -23,9 +22,7 @@
 
 ## 关于我
 
-永远不要渴求他人真正理解你，也不要一厢情愿的认为自己真正理解他人。
-
-**很期待和你共同创造一片天地。**
+保持神秘......
 
 <p>
   <img src="https://img.shields.io/badge/AI-Agent-0F766E?style=flat-square" alt="探索方向：AI Agent" />
@@ -41,7 +38,6 @@
     <img width="280" src="https://skillicons.dev/icons?i=python,ts,java,spring,redis,rabbitmq,cs,dotnet,mysql,git&amp;perline=5&amp;theme=light" alt="Python、TypeScript、Java、Spring、Redis、RabbitMQ、C#、.NET、MySQL 与 Git" />
   </picture>
 </p>
-<p align="center"><sub>从 AI 助手到后端服务，再到桌面应用；图标代表项目使用或探索的工具，不代表熟练度评级。</sub></p>
 
 ## 项目作品
 
@@ -105,8 +101,6 @@
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todayair&amp;theme=github" alt="按提交统计的语言分布" />
   </picture>
 </p>
-
-<p align="center"><sub>语言分布按提交记录统计，不代表熟练度；统计卡片由第三方服务提供。</sub></p>
 
 ### 让贡献记录动起来
 
