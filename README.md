@@ -1,81 +1,111 @@
-<!--
-  todayair 的 GitHub 主页
-  ============================================================
-  用户名已经全部填好了。上线前还差三步：
-
-  1. 补上联系方式
-     - 把 mailto:你的邮箱 改成你的真实邮箱
-     - 把 https://你的博客地址 改成真实地址；没有博客就把整行 <a> 删掉
-  2. 把「关于我」里的 XXX 换成真实内容
-  3. 上传后到仓库的 Actions 页面，把两个 workflow 各手动跑一次
-
-  用到的服务在 2026-09-16 实测可用。
-  如果某张图不显示了，优先怀疑第三方服务，顺序是：
-  统计卡片 → 顶部横幅 → 打字标语。
-  3D 贡献图和小蛇跑在你自己的仓库里，不会因为别人停机而挂掉。
-
-  改完这段注释可以整块删掉，不影响显示效果。
+<!-- GitHub profile README · todayair
+     仅使用 GitHub 支持的 Markdown / HTML；不依赖 CSS 或 JavaScript。
+     项目介绍以对应公开仓库 README 为依据，Fork 项目单独标注。
+     统计徽章由第三方实时提供，贡献图由本仓库既有 Actions 更新。
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=todayair&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="顶部横幅" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F172A&amp;height=190&amp;section=header&amp;text=todayair&amp;fontSize=56&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;animation=none&amp;desc=%E4%BB%8A%E6%99%9A%E7%9A%84%E9%A3%8E%E6%B2%A1%E6%9C%89%E9%A2%9C%E8%89%B2&amp;descSize=17&amp;descAlignY=62&amp;descColor=CBD5E1" alt="todayair · 今晚的风没有颜色" />
 
-<p><em>随着浪花起伏消没 叼啄着往昔飞离不见</em></p>
+  <h3>一个正在学习 Agent 开发的学生</h3>
+  <p><em>随着浪花起伏消没 叼啄着往昔飞离不见</em></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFtodayair;%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0Agent%E5%BC%80%E5%8F%91%E7%9A%84%E5%AD%A6%E7%94%9F" alt="打字标语" />
-
-<p>
-  <a href="mailto:1649647826@qq.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
-  <img src="https://komarev.com/ghpvc/?username=todayair&style=flat-square&color=1f6feb" alt="访客数" />
-</p>
+  <p>
+    <a href="https://github.com/todayair?tab=repositories"><img src="https://img.shields.io/badge/Projects-0F766E?style=flat-square&amp;logo=github&amp;logoColor=white" alt="查看全部项目" /></a>
+    <a href="mailto:1649647826@qq.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="通过邮箱联系" /></a>
+    <img src="https://komarev.com/ghpvc/?username=todayair&amp;style=flat-square&amp;color=0f766e&amp;label=Profile+views" alt="主页访问量" />
+  </p>
 
 </div>
-
----
 
 ## 关于我
 
 永远不要渴求他人真正理解你，也不要一厢情愿的认为自己真正理解他人。
-很期待和你共同创造一片天地。
 
-## 一些数字
+**很期待和你共同创造一片天地。**
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/AI-Agent-0F766E?style=flat-square" alt="探索方向：AI Agent" />
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-334155?style=flat-square" alt="项目方向：Spring Boot 后端" />
+  <img src="https://img.shields.io/badge/Desktop-C%23_%2F_WPF-334155?style=flat-square" alt="项目方向：C# 与 WPF 桌面开发" />
+</p>
+
+## 项目作品
+
+### 01 · [Personal Assistant Agent](https://github.com/todayair/todayair-personal-assistant-agent)
+
+基于 **Pydantic AI + Harness** 构建的交互式 AI 助手。
+
+<sub>AI Agent · TypeScript</sub>
+
+### 02 · [TodayAir Dianping](https://github.com/todayair/Dianping)
+
+基于 **Spring Boot + Redis + RabbitMQ** 的本地生活服务平台后端，围绕商铺查询、秒杀与博客社交展开。
+
+<sub>Java · Spring Boot · Redis · RabbitMQ · MySQL</sub>
+
+### 03 · [学生协作聊天室](https://github.com/todayair/Student-Collaboration-Chatroom)
+
+基于 **C# / .NET 8 + WPF** 的学生协作沟通平台，支持实时聊天、房间管理、课程匹配与文件分享。
+
+<sub>C# · WPF · TCP · MySQL</sub>
+
+<details>
+  <summary><b>学习与探索 · Fork 项目</b></summary>
+
+  <br />
+
+- [all-in-rag](https://github.com/todayair/all-in-rag) — RAG 技术全栈指南，Fork 自 [Datawhale](https://github.com/datawhalechina/all-in-rag)。
+- [Ommateum](https://github.com/todayair/Ommateum) — 通用视觉缺陷检测平台，Fork 自 [x1a0qiya/Ommateum](https://github.com/x1a0qiya/Ommateum)。
+
+</details>
+
+## 代码足迹
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=todayair&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=todayair&theme=github" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=todayair&theme=github" alt="GitHub 统计" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=todayair&amp;theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=todayair&amp;theme=github" alt="GitHub 统计：提交、仓库与贡献概况" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todayair&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todayair&theme=github" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todayair&theme=github" alt="常用语言" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todayair&amp;theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todayair&amp;theme=github" alt="按提交统计的语言分布" />
   </picture>
-</div>
+</p>
 
-<div align="center">
+<p align="center"><sub>语言分布按提交记录统计，不代表熟练度；统计卡片由第三方服务提供。</sub></p>
+
+### 每一次提交，都留下一点痕迹
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todayair&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todayair&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todayair&theme=github" alt="活跃概览" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/todayair/todayair/main/profile-3d-contrib/profile-night-green.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/todayair/todayair/main/profile-3d-contrib/profile-green-animate.svg" alt="todayair 的 3D 贡献图，由 GitHub Actions 自动更新" />
   </picture>
-</div>
+</p>
 
-## 贡献图
+<details>
+  <summary><b>展开更多 · 活跃概览与贡献小蛇</b></summary>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/todayair/todayair/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/todayair/todayair/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/todayair/todayair/main/profile-3d-contrib/profile-green-animate.svg" alt="3D 贡献图" />
-  </picture>
-</div>
+  <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/todayair/todayair/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/todayair/todayair/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/todayair/todayair/output/github-contribution-grid-snake.svg" alt="贡献小蛇" />
-  </picture>
-</div>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todayair&amp;theme=github_dark" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todayair&amp;theme=github" alt="GitHub 活跃概览" />
+    </picture>
+  </p>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/todayair/todayair/output/github-contribution-grid-snake-dark.svg" />
+      <img width="100%" src="https://raw.githubusercontent.com/todayair/todayair/output/github-contribution-grid-snake.svg" alt="贡献小蛇，由 GitHub Actions 自动更新" />
+    </picture>
+  </p>
+
+</details>
+
+---
+
+<p align="center"><sub>很期待和你共同创造一片天地。</sub></p>
